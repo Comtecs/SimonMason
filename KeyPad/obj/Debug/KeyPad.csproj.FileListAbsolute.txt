@@ -1,0 +1,7 @@
+C:\Users\Simon\Documents\DEV\KeyPad\KeyPad\obj\Debug\KeyPad.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Documents\DEV\KeyPad\KeyPad\obj\Debug\KeyPad.Properties.Resources.resources
+C:\Users\Simon\Documents\DEV\KeyPad\KeyPad\obj\Debug\KeyPad.csproj.GenerateResource.Cache
+C:\Users\Simon\Documents\DEV\KeyPad\KeyPad\bin\Debug\KeyPad.exe
+C:\Users\Simon\Documents\DEV\KeyPad\KeyPad\bin\Debug\KeyPad.pdb
+C:\Users\Simon\Documents\DEV\KeyPad\KeyPad\obj\Debug\KeyPad.exe
+C:\Users\Simon\Documents\DEV\KeyPad\KeyPad\obj\Debug\KeyPad.pdb
